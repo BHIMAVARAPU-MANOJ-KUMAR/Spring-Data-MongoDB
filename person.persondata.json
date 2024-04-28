@@ -1,0 +1,22 @@
+[{
+  "_id": "662e35cd5f7f182b484e1f63",
+  "firstName": "Manoj",
+  "lastName": "Reddy",
+  "email": "manojreddy@gmail.com",
+  "gender": "MALE",
+  "address": {
+    "country": "USA",
+    "city": "Austin",
+    "postCode": "73301"
+  },
+  "favouriteSubjects": [
+    "Computer Science",
+    "Project Management",
+    "Cyber Security"
+  ],
+  "totalMoneySpentOnBooks": "10",
+  "created": {
+    "$date": "2024-04-28T11:41:00.951Z"
+  },
+  "_class": "com.springdatamongo.datamongo.model.PersonModel"
+}]
